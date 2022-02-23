@@ -6,7 +6,7 @@ namespace EsempioMediatR
 {
     public class Program
     {
-
+        //es
         public static void Main()
         {
             IServiceCollection services = new ServiceCollection();
